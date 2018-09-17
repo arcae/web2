@@ -1,7 +1,9 @@
 Mancheter City Club
 Renamed origin directory to web22
-"New line from feature branch" 
-"New line from feature branch - this is created for a merge conflict"
+New line from feature branch
+New line from feature branch - this is created for a merge conflict"
 Creating a merge conflict
+"Hello another new-line from feature branch" 
+"New line from feature branch" 
 line added on 09/16/2018
 I think there will be merge conflict here
