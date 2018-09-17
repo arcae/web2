@@ -1,5 +1,6 @@
 Mancheter City Club
 Renamed origin directory to web22
 "New line from feature branch" 
-"New line from feature branch" 
+"New line from feature branch - this is created for a merge conflict"
+Creating a merge conflict
 line added on 09/16/2018
