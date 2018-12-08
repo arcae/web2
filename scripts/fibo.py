@@ -4,6 +4,7 @@ import sys
 
 
 print('Python version is: {}'.format(sys.version))
+print('yes')
 
 
 
